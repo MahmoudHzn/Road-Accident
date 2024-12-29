@@ -29,18 +29,13 @@ The data used in this dashboard is sourced from a structured dataset containing 
 4. Comparative analysis of urban vs rural accident statistics.
 
 ## How to Use
-1. Download the `.pbix` file from the repository.
+1. Download the `Road Accident.pbix` file from the repository.
 2. Open it in Power BI Desktop.
 3. Interact with the visuals, apply filters, and explore detailed insights.
 
 ## Contributing
 Contributions are welcome! If you have ideas for additional features or improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Special thanks to open data sources and Power BI for enabling this project.
 
 ---
 **Let’s make roads safer together! 🚦**
